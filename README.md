@@ -7,4 +7,4 @@ How to install
 3. change in config.js
 - yt_api_key to your Youtube Api key
 - endpoint to your Youtube stream server endpoint (https://github.com/vladady/youtube_stream)
-4. start your alexa app server
+4. start your alexa app server (https://github.com/alexa-js/alexa-app-server)
