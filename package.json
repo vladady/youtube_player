@@ -1,0 +1,15 @@
+{
+  "name": "youtube_player",
+  "version": "1.0.0",
+  "description": "Youtube player Alexa app",
+  "main": "index.js",
+  "author": "Nagy Norbert",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.9e68b6f8-26db-49b7-b7a9-2838d65c54d4"
+  },
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "request-promise": "^4.2.0"
+  }
+}
